@@ -4,8 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - v4
-
+      - deploy
 permissions:
   contents: read
   pages: write
