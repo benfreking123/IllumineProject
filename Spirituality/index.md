@@ -4,6 +4,8 @@ title: Illumine Project
 
 Welcome to the Illumine Project Wiki
 
+This is the test
+
 ## Mission Statement
 The **Illumine Project** is dedicated to uncovering, documenting, and sharing esoteric knowledge and practices, shedding light on the unknown, and guiding individuals on their spiritual journey. We strive for clarity, comprehension, and connection with the universal forces at play.
 
