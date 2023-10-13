@@ -22,13 +22,7 @@ jobs:
         with:
           fetch-depth: 0 # Fetch all history for git info
 
-      # Setup and run main.py
-      - name: Setup Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: 3.10  # Adjust to your desired Python version
-      #- run: pip install -r requirements.txt  # If you have any dependencies for your Python script
-      - run: python main.py
+
 
       # Continue with the rest of the build process
       - uses: actions/setup-node@v3
