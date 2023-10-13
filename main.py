@@ -70,7 +70,7 @@ if __name__ == "__main__":
     SOURCE_DIR = 'Spirituality'
     DESTINATION_DIR = 'content'
     FOLDERS_TO_COPY = ['- Abilities', '- Classes', '- Individuals', '- Items', '- Journal', '- Places', '- Stories']
-    FILES_TO_COPY = ['Home.md', 'Fundamental Forces.md']
+    FILES_TO_COPY = ['Home.md', 'Fundamental Forces.md', 'index.md']
     FILES_TO_IGNORE = ['Zarda.md', 'ignore2.md']  # Add filenames you want to ignore
 
     copy_selected(SOURCE_DIR, DESTINATION_DIR, FOLDERS_TO_COPY, FILES_TO_COPY, FILES_TO_IGNORE)
