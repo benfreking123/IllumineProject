@@ -1,0 +1,15 @@
+Title
+{New_Entry}
+Servitor
+Tool
+Talisman
+Consumable
+Ability
+Individual
+Class
+Place
+Concept
+Spell
+Main
+Memetic
+Realm

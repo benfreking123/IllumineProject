@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "b4e7946cd28086e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e3f59a859b8d729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df1cf3edfe52cc50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f16d9e2e3076aea1",
+    "type": "split",
+    "children": [
+      {
+        "id": "0320de008d303743",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b790f4cddd0befaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "653f0b4a0e66240d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e9a262ef4dab81e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54ae9e25cd3bbd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea50935ba924d4f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8e27ec2a631c282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a036f6bb5a7c3c00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb2ac208b03f1f96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94a98b4d7801b867",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df1cf3edfe52cc50",
+  "lastOpenFiles": [
+    "- Items/Servitor/Zarda & Kenith/Zarda.md",
+    "- Items/Servitor/Zarda & Kenith/Kenith.md",
+    "New/Main/God.md",
+    "New/Places/Lucid Realm.md",
+    "New/Places/Astral Realm.md",
+    "New/Classes/Artificer.md",
+    "New/Classes/Remote Viewing.md",
+    "New/Classes/Forger.md",
+    "Home.md",
+    "New/Classes/Manifestation.md",
+    "New/-Actions/ItemStyle.md",
+    "Main/Base Document.md",
+    "New/-Actions/Rarity.md",
+    "New/-Actions/Writer.md",
+    "- Individuals/Authors/Glyn.md",
+    "- Items/Tools/Scrying Mirrors/Scrying Mirror.md",
+    "New/Misc/Name.md",
+    "New/Places/The Void.md",
+    "New/Items/Tyler Durden.md",
+    "New/Items/Anchor.md",
+    "New/Misc/Memetic.md",
+    "New/Abilities/Thought Control.md",
+    "New/Classes/Round Table.md",
+    "New/Places/The Bunker.md",
+    "New/Abilities/Shadow Manipulate.md",
+    "- Items/Servitor/Scuba/Scuba.md",
+    "- Individuals/Authors/Old Names",
+    "Untitled",
+    "- Journal/Concepts",
+    "- Places/Lucid",
+    "- Places/Astral",
+    "- Classes/Domain Control",
+    "- Items/Tools/Books",
+    "- Individuals/Entity",
+    "- Individuals/Authors",
+    "- Stories"
+  ]
+}
