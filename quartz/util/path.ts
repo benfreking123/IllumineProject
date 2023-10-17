@@ -97,7 +97,7 @@ export function pathToRoot(slug: FullSlug): RelativeURL {
     rootPath = "."
   }
 
-  return rootPath as RelativeURL
+  return ("IllumineProject/" + rootPath) as RelativeURL
 }
 
 export function resolveRelative(current: FullSlug, target: FullSlug | SimpleSlug): RelativeURL {
