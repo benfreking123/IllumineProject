@@ -3,7 +3,9 @@
 Author: [[Pisston]], [[Andrew]]
 #Place #Uncommon #Lucid #Level5
 - - - 
-A box constructed by [[Pisston]] & [[Andrew]]. They would travel to this lucid realm when high
+A box constructed by [[Pisston]] & [[Andrew]]. 
+They would [[Project|Projection]] to a [[Lucid Realm]] into The Box.
+Would also use a consumable (weed)
 
 To step away from the moment
 

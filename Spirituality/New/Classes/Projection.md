@@ -5,11 +5,9 @@ Author: [[Base]]
 - - - 
 To travel to [[Realm]]
 
-Magick of traveling realms
-Type of realms - Astral & Lucid
-Astral - Outside (You enter directly into a dream)
-Lucid - Inside (You become aware you are dreaming)
-Can move between the Lucid and Astral Realms easily
+Projection is seen in two main forms;
+- Projection to a [[Lucid Realm]]
+- Projection to an [[Astral Realm]]
 
 ## Appearance:<br>
 - - -

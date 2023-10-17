@@ -1,10 +1,14 @@
 - - -
 ### Class - 0
 Author: [[Glyn]]
-#Class #Open #Manifestation #Level0
+#Class #Open #Manifestation #Level0 #Conjuration 
 - - - 
-A skill to bring the imagination into the [[Material Realm]]
+[[Conjuration]] into the [[Material Realm]]
 
+Maybe:
+Bringing a [[Conjuration]] into a [[Realm]]
+
+Maybe a skill of Conjuration - if a skill then it can be Conjuration into the Material Realm
 ## Appearance:<br>
 - - -
 
@@ -24,7 +28,7 @@ A skill to bring the imagination into the [[Material Realm]]
 
 ## Notes:<br>
 - - - 
-
+A skill to bring the imagination into the [[Material Realm]]
 
 ## Resources:
 - - -

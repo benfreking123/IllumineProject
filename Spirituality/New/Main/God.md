@@ -5,6 +5,8 @@ Author: [[Base]]
 - - - 
 Everything
 
+The reason for the name is that my everything includes the lucid and astral
+
 The totality of all [[Astral Realm|Astral Realms]]
 
 Need a name for the smaller ‘god’ of just the [[Lucid Realm|Lucid Realms]] & [[Material Realm]]

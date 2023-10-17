@@ -19,3 +19,4 @@ Wand
 Blueprint
 Autonomous
 Manifestation
+Conjuring

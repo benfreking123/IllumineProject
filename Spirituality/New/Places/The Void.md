@@ -17,8 +17,8 @@ Author: [[Unknown]]
 ## Use:<br>
 - - -
 Forget everything to enter the void
-Forget all names to enter the void
-Call the name of the void
+Forget all [[name|names]] to enter the void
+Then, Call the [[name]] of the void
 <br>
 
 ## Grounds:<br>

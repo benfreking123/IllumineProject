@@ -3,8 +3,7 @@
 Author: [[Unknown]]
 #Concept #Open #Vocab  #Level
 - - - 
-The tool to call an entity
-An ultimate identity of a categorized/labeled section of god
+An ultimate identity of an [[Aspect|Aspect]] of [[God]]
 
 ## Appearance:<br>
 - - -
@@ -13,10 +12,12 @@ An ultimate identity of a categorized/labeled section of god
 
 ## Creation: <br>
 - - -
+Names are not created but learned, through understanding an [[Aspect|Aspect]] of [[God]].
 <br>
 
 ## Use:<br>
 - - -
+Used to call an [[Aspect]] of [[God]] into the user's mind/imagination
 <br>
 
 ## Grounds:<br>

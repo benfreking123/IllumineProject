@@ -15,7 +15,7 @@ The ability to quickly enter a dream
 ## Notes:
 - - -
 
-[[Genesis]] used an alarm then went back asleep to take control of the dream
+[[Genesis]] used an alarm to wake them, and then went back asleep to take control of the dream
 
 ## Resources: 
 ---

@@ -49,7 +49,7 @@ The **Illumine Project** was founded by a group of like-minded individuals passi
   - [[Personal Altar]]
   - [[Tyler Durden]]
   - [[Wand]] 
-- **Journal**: Personal experiences, revelations, and insights from practitioners and members. [[Journal/Place]]
+- **Journal**: Personal experiences, revelations, and insights from practitioners and members. [[Place]]
   
 - **Places**: Mystical locations, their significance, and stories. [[Places]]
   

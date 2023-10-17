@@ -1,7 +1,7 @@
 - - -
 ### Class - 
 Author: [[Unknown]]
-#Class #Open #Astral #Level
+#Class #Open #Astral #Level #Projection
 - - - 
 A subclass of astral projection, 
 Astral Projection to this specific [[Realm]], the [[Material Realm]]
