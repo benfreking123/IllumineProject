@@ -129,20 +129,11 @@ export function joinSegments(...args: string[]): string {
     .replace(/\/\/+/g, "/")
 }
 
-export function getAllSegmentPrefixes1(tags: string): string[] {
-  const segments = tags.split("/")
-  const results: string[] = []
-  for (let i = 0; i < segments.length; i++) {
-    results.push(segments.slice(0, i + 1).join("/"))
-  }
-  return results
-}
-
 export function getAllSegmentPrefixes(tags: string): string[] {
   const segments = tags.split("/")
   const results: string[] = []
   for (let i = 0; i < segments.length; i++) {
-    results.push('/IllumineProject/' + segments.slice(0, i + 1).join("/"))
+    results.push(segments.slice(0, i + 1).join("/"))
   }
   return results
 }
