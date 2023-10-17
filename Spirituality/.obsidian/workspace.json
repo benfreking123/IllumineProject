@@ -14,25 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "New/Main/Cultivator.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
-          },
-          {
-            "id": "a04ce4f69ae14ce8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New/Main/Aspect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Cul",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Main/Aspect.md",
+                "file": "New/Main/Cultivator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Main/Aspect.md",
+                "file": "New/Main/Cultivator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Main/Aspect.md"
+                "file": "New/Main/Cultivator.md"
               }
             }
           }
@@ -160,43 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a04ce4f69ae14ce8",
+  "active": "df1cf3edfe52cc50",
   "lastOpenFiles": [
-    "New/Main/Cultivator.md",
-    "New/Abilities/Dream Jumping.md",
-    "- Individuals/Authors/Old Names/Nulek.md",
-    "- Individuals/Authors/Old Names/Ahmed.md",
-    "- Individuals/Authors/Glyn.md",
-    "- Individuals/Authors/Genesis.md",
-    "- Individuals/Authors/Ducky.md",
-    "- Individuals/Authors/Bryce.md",
-    "New/Misc/Place.md",
-    "Fundamental Forces.md",
     "Home.md",
-    "index.md",
-    "New/Main/Aspect.md",
-    "New/Main/Aspects.md",
-    "Untitled.md",
-    "New/Items/Everything Bagel.md",
-    "New/Classes/Conjuration.md",
+    "Energy.md",
+    "Fundamental Forces.md",
     "Domain.md",
+    "New/Main/Cultivator.md",
+    "New/Main/Cultivator.md~",
+    "New/Misc/Place.md",
+    "New/Main/Aspect.md",
+    "New/Items/Tools/Tarot Cards/Tarot Cards.md",
+    "New/Items/Tools/Tarot Cards",
+    "New/Items/Tools/Scrying Mirrors/Scrying Mirror.md",
+    "New/Items/Tools/Scrying Mirrors/Garfield Mirror.md",
+    "New/Items/Tools/Scrying Mirrors",
+    "New/Items/Tools/Pendulums/Pendulum.md",
+    "New/Items/Tools/Pendulums",
+    "New/Items/Tools/Books/Dream Journal.md",
+    "New/Items/Tools/Books",
+    "New/Items/Talisman/Mana Stone/Mana Stone.md",
+    "New/Items/Talisman/Mana Stone/Etched Mana Stone.md",
+    "New/Items/Talisman/Talisman.md",
+    "New/Items/Talisman/Mana Stone",
+    "New/Items/Talisman",
     "New/Items/Servitor/Zarda & Kenith/Zarda.md",
     "New/Items/Servitor/Zarda & Kenith/Kenith.md",
-    "New/Main/God.md",
-    "New/Places/Lucid Realm.md",
-    "New/Places/Astral Realm.md",
-    "New/Classes/Artificer.md",
-    "New/Classes/Remote Viewing.md",
-    "New/Classes/Forger.md",
-    "- Individuals/Authors/Old Names",
-    "Untitled",
-    "New/Misc/Concepts",
-    "- Places/Lucid",
-    "- Places/Astral",
-    "New/Classes/Domain Control",
-    "New/Items/Tools/Books",
-    "New/Individuals/Entity",
-    "- Individuals/Authors",
-    "- Stories"
+    "New/Items/Servitor/Scuba/Scuba.md",
+    "New/Items/Servitor/Mulken/Mulken.md",
+    "New/Items/Servitor/Zarda & Kenith",
+    "New/Items/Servitor/Scuba",
+    "New/Items/Servitor/Servitor.md",
+    "New/Items/Servitor/Mulken",
+    "New/Items/Everything Bagel.md",
+    "New/Classes/Shadow Work/Shadow Work.md",
+    "New/Classes/Diviniation/Divination.md",
+    "New/Classes/Conjuration.md",
+    "New/Abilities/Abilities.md",
+    "Untitled.md"
   ]
 }
