@@ -115,18 +115,11 @@ export function slugAnchor(anchor: string) {
   return slug(anchor)
 }
 
-export function slugTag1(tag: string) {
+export function slugTag(tag: string) {
   return tag
     .split("/")
     .map((tagSegment) => slug(tagSegment))
     .join("/")
-}
-
-export function slugTag(tag: string) {
-  return 'IllumineProject/' + tag
-    .split("/")
-    .map((tagSegment) => slug(tagSegment))
-    .join("/");
 }
 
 export function joinSegments(...args: string[]): string {
