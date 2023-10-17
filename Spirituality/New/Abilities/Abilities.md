@@ -1,0 +1,1 @@
+- Ability to see god (Good Detection)

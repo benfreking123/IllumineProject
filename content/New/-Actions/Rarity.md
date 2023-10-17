@@ -1,0 +1,10 @@
+Rarity
+{New_Entry}
+Open
+Common
+Uncommon
+Rare
+Mythical
+Legendary
+Sacred
+Cursed
