@@ -1,1 +1,1 @@
-[[Forger]]
+Is a strong [[Forger]]

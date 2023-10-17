@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "New/Main/Cultivator.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a04ce4f69ae14ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New/Main/Aspect.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Cul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "New/Main/Aspect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "New/Main/Aspect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "New/Main/Aspect.md"
               }
             }
           }
@@ -146,42 +160,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df1cf3edfe52cc50",
+  "active": "a04ce4f69ae14ce8",
   "lastOpenFiles": [
+    "New/Main/Cultivator.md",
+    "New/Abilities/Dream Jumping.md",
+    "- Individuals/Authors/Old Names/Nulek.md",
+    "- Individuals/Authors/Old Names/Ahmed.md",
+    "- Individuals/Authors/Glyn.md",
+    "- Individuals/Authors/Genesis.md",
+    "- Individuals/Authors/Ducky.md",
+    "- Individuals/Authors/Bryce.md",
+    "New/Misc/Place.md",
+    "Fundamental Forces.md",
+    "Home.md",
     "index.md",
-    "- Items/Servitor/Zarda & Kenith/Zarda.md",
-    "- Items/Servitor/Zarda & Kenith/Kenith.md",
+    "New/Main/Aspect.md",
+    "New/Main/Aspects.md",
+    "Untitled.md",
+    "New/Items/Everything Bagel.md",
+    "New/Classes/Conjuration.md",
+    "Domain.md",
+    "New/Items/Servitor/Zarda & Kenith/Zarda.md",
+    "New/Items/Servitor/Zarda & Kenith/Kenith.md",
     "New/Main/God.md",
     "New/Places/Lucid Realm.md",
     "New/Places/Astral Realm.md",
     "New/Classes/Artificer.md",
     "New/Classes/Remote Viewing.md",
     "New/Classes/Forger.md",
-    "Home.md",
-    "New/Classes/Manifestation.md",
-    "New/-Actions/ItemStyle.md",
-    "Main/Base Document.md",
-    "New/-Actions/Rarity.md",
-    "New/-Actions/Writer.md",
-    "- Individuals/Authors/Glyn.md",
-    "- Items/Tools/Scrying Mirrors/Scrying Mirror.md",
-    "New/Misc/Name.md",
-    "New/Places/The Void.md",
-    "New/Items/Tyler Durden.md",
-    "New/Items/Anchor.md",
-    "New/Misc/Memetic.md",
-    "New/Abilities/Thought Control.md",
-    "New/Classes/Round Table.md",
-    "New/Places/The Bunker.md",
-    "New/Abilities/Shadow Manipulate.md",
     "- Individuals/Authors/Old Names",
     "Untitled",
-    "- Journal/Concepts",
+    "New/Misc/Concepts",
     "- Places/Lucid",
     "- Places/Astral",
-    "- Classes/Domain Control",
-    "- Items/Tools/Books",
-    "- Individuals/Entity",
+    "New/Classes/Domain Control",
+    "New/Items/Tools/Books",
+    "New/Individuals/Entity",
     "- Individuals/Authors",
     "- Stories"
   ]
