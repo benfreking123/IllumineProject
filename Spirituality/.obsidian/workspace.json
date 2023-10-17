@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Abilities/Dream Jumping.md",
-                "mode": "source",
+                "file": "New/Main/Cultivator.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Drea",
+                "query": "Cul",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Abilities/Dream Jumping.md",
+                "file": "New/Main/Aspect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Abilities/Dream Jumping.md",
+                "file": "New/Main/Aspect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Abilities/Dream Jumping.md"
+                "file": "New/Main/Aspect.md"
               }
             }
           }
@@ -159,8 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df1cf3edfe52cc50",
+  "active": "a04ce4f69ae14ce8",
   "lastOpenFiles": [
+    "New/Main/Cultivator.md",
+    "New/Abilities/Dream Jumping.md",
     "- Individuals/Authors/Old Names/Nulek.md",
     "- Individuals/Authors/Old Names/Ahmed.md",
     "- Individuals/Authors/Glyn.md",
@@ -173,7 +176,6 @@
     "index.md",
     "New/Main/Aspect.md",
     "New/Main/Aspects.md",
-    "New/Main/Cultivator.md",
     "Untitled.md",
     "New/Items/Everything Bagel.md",
     "New/Classes/Conjuration.md",
@@ -186,7 +188,6 @@
     "New/Classes/Artificer.md",
     "New/Classes/Remote Viewing.md",
     "New/Classes/Forger.md",
-    "New/Classes/Manifestation.md",
     "- Individuals/Authors/Old Names",
     "Untitled",
     "New/Misc/Concepts",

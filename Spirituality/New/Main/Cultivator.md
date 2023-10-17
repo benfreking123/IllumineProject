@@ -1,7 +1,6 @@
 - - -
 ### Class - 10
-Author: [[Pisston]]
-#Class  #Rare #TypeOf  #Level10
+Author: [[Pisston]] <br> #Class  #Rare #TypeOf  #Level10
 - - - 
 a title for an individual who possesses [[The Spark]] and strives to pass it on to others
 
