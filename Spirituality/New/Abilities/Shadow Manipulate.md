@@ -3,7 +3,7 @@
 Author: [[Unknown]]
 #Ability #Uncommon #ShadowWork #Level4
 - - - 
-Altering one’s inner personality or [[shadow]]
+Altering one’s inner personality or [[Shadow]]
 
 ## Appearance:<br>
 - - -

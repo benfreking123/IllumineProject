@@ -1,16 +1,16 @@
 ---
 tags:
-  - Title
-  - Rarity
-  - TypeOf
-  - Level
-Author: "[[Unknown]]"
+  - Realm
+  - Open
+  - Lucid
+  - Level0
+Author: "[[Base]]"
 level: "0"
 Document State: "Prewriting - Researching - Drafting - Revising - Finalizing - Completed"
 ---
-_Description_
+A [[Lucid Realm]] where dreams occur
 - - -
 ## Notes:
 _blank_
 - - -
-Author: [[Unknown]]
+Author: [[Base]]

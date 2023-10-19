@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Items/Wand.md",
-                "mode": "source",
+                "file": "New/Classes/Artificer.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Items/Wand.md",
+                "file": "New/Classes/Artificer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Items/Wand.md",
+                "file": "New/Classes/Artificer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Items/Wand.md"
+                "file": "New/Classes/Artificer.md"
               }
             }
           }
@@ -146,34 +145,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df1cf3edfe52cc50",
+  "active": "b790f4cddd0befaf",
   "lastOpenFiles": [
-    "New/Items/Tyler Durden.md",
-    "New/Items/Wand.md",
-    "Aspects.md",
-    "index.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Potential Story.md",
-    "Home.md",
-    "Fundamental Forces.md",
-    "Energy.md",
-    "Domain.md",
-    "Template/New Note.md",
-    "New/Classes/Archivist.md",
-    "New/Classes/Shadow Work/Archivist.md",
-    "Template/Shortcuts.md",
-    "Template/Daily Template.md",
-    "New/Items/Anchor.md",
-    "Archivist.md",
-    "- Individuals/Authors/The Witness.md",
-    "Untitled 2.md",
     "New/Main/God.md",
-    "New/Items/Talisman/Talisman.md",
-    "New/Main/Aspect.md",
     "New/Misc/Name.md",
     "New/Misc/The Spark.md",
+    "New/Places/The Box.md",
+    "New/Main/Aspect.md",
+    "New/Places/The Void.md",
+    "New/Abilities/Domain Expansion.md",
+    "New/Classes/Domain Control.md",
+    "New/Abilities/Domain Walker.md",
+    "New/Classes/Remote Viewing.md",
+    "New/Classes/Diviniation/Divination.md",
+    "New/Abilities/Simple Domain Control.md",
+    "New/Items/Emotional Regulator.md",
+    "New/Items/Anchor.md",
+    "New/Abilities/Total Thought Control.md",
+    "New/Classes/Projection.md",
+    "New/Main/Level.md",
     "New/Main/Cultivator.md",
+    "New/Classes/Conjuration.md",
+    "New/Abilities/Thought Control.md",
+    "New/Classes/Archivist.md",
+    "New/Classes/Round Table.md",
+    "New/Places/Lucid Realm.md",
+    "New/Items/Lucid Blueprint.md",
+    "New/Abilities/Dream Jumping.md",
+    "New/Misc/Shadow.md",
+    "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",
     "New/Items/Tools/Scrying Mirrors",
@@ -182,7 +182,6 @@
     "New/Items/Talisman/Mana Stone",
     "New/Items/Talisman",
     "New/Items/Servitor/Zarda & Kenith",
-    "New/Items/Servitor/Scuba",
-    "New/Items/Servitor/Mulken"
+    "New/Items/Servitor/Scuba"
   ]
 }

@@ -1,8 +1,14 @@
-- - -
-### Place - 5
-Author: [[Pisston]], [[The Witness]]
-#Place #Uncommon #Lucid #Level5
-- - - 
+---
+tags:
+  - Place
+  - Uncommon
+  - Lucid
+  - Level5
+Author: "[[Pisston]]"
+Author2: "[[The Witness]]"
+level: "0"
+Document State: "Researching"
+---
 A box constructed by [[Pisston]] & [[The Witness]]. 
 They would [[Project|Projection]] to a [[Lucid Realm]] into The Box.
 Would also use a consumable (weed)
@@ -10,30 +16,13 @@ Would also use a consumable (weed)
 To step away from the moment
 
 When you realize what is currently happening
-
-
-
-###### Appearance: 
 - - -
-
-
-## Use:
-- - - 
-Ritual is to travel to The Box 
-
-
-## Grounds:
-- - -
-
 ## Notes: 
-- - -
 Ritual to enter the box:
 Smoking, on couch, tv
 
 Ritual to leave the box:
 Someone has to bring you out of the box,
 Unzipping is the best method
-
-
-## Resources:
 - - -
+Author: [[Pisston]], [[The Witness]]
