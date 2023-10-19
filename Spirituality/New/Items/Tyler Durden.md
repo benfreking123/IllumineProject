@@ -3,7 +3,6 @@ tags:
   - Servitor
   - Cursed
 Author: "[[Unknown]]"
-title: "[[Servitor]]"
 level: "18"
 ---
 
