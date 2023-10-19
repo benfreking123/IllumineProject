@@ -1,6 +1,6 @@
 - - -
 ### Tool - 3
-Author: [[Pisston]], [[Andrew]]
+Author: [[Pisston]], [[The Witness]]
 #Tool #Common #Bag #Level3
 - - - 
 An item to store memories into

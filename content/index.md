@@ -70,19 +70,3 @@ The **Illumine Project** was founded by a group of like-minded individuals passi
 
 Feel free to explore and contribute. Your journey of discovery begins now.
 
-# Index
-
-## Abilities
-
-
-## Classes
-
-
-## Individuals
-
-
-## Items
-
-
-
-
