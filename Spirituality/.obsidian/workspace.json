@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Main/Cultivator.md",
+                "file": "New/Items/Tyler Durden.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Main/Cultivator.md",
+                "file": "New/Items/Tyler Durden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Main/Cultivator.md",
+                "file": "New/Items/Tyler Durden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Main/Cultivator.md"
+                "file": "New/Items/Tyler Durden.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "df1cf3edfe52cc50",
   "lastOpenFiles": [
+    "index.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Potential Story.md",
     "Home.md",
-    "Energy.md",
     "Fundamental Forces.md",
+    "Energy.md",
     "Domain.md",
+    "Template/New Note.md",
+    "New/Classes/Archivist.md",
+    "New/Classes/Shadow Work/Archivist.md",
+    "Template/Shortcuts.md",
+    "Template/Daily Template.md",
+    "New/Items/Anchor.md",
+    "Archivist.md",
+    "- Individuals/Authors/The Witness.md",
+    "Untitled 2.md",
+    "New/Main/God.md",
+    "New/Items/Talisman/Talisman.md",
+    "New/Main/Aspect.md",
+    "New/Misc/Name.md",
+    "New/Misc/The Spark.md",
     "New/Main/Cultivator.md",
     "New/Main/Cultivator.md~",
     "New/Misc/Place.md",
-    "New/Main/Aspect.md",
     "New/Items/Tools/Tarot Cards/Tarot Cards.md",
     "New/Items/Tools/Tarot Cards",
     "New/Items/Tools/Scrying Mirrors/Scrying Mirror.md",
-    "New/Items/Tools/Scrying Mirrors/Garfield Mirror.md",
     "New/Items/Tools/Scrying Mirrors",
-    "New/Items/Tools/Pendulums/Pendulum.md",
     "New/Items/Tools/Pendulums",
-    "New/Items/Tools/Books/Dream Journal.md",
     "New/Items/Tools/Books",
-    "New/Items/Talisman/Mana Stone/Mana Stone.md",
-    "New/Items/Talisman/Mana Stone/Etched Mana Stone.md",
-    "New/Items/Talisman/Talisman.md",
     "New/Items/Talisman/Mana Stone",
     "New/Items/Talisman",
-    "New/Items/Servitor/Zarda & Kenith/Zarda.md",
-    "New/Items/Servitor/Zarda & Kenith/Kenith.md",
-    "New/Items/Servitor/Scuba/Scuba.md",
-    "New/Items/Servitor/Mulken/Mulken.md",
     "New/Items/Servitor/Zarda & Kenith",
     "New/Items/Servitor/Scuba",
-    "New/Items/Servitor/Servitor.md",
-    "New/Items/Servitor/Mulken",
-    "New/Items/Everything Bagel.md",
-    "New/Classes/Shadow Work/Shadow Work.md",
-    "New/Classes/Diviniation/Divination.md",
-    "New/Classes/Conjuration.md",
-    "New/Abilities/Abilities.md",
-    "Untitled.md"
+    "New/Items/Servitor/Mulken"
   ]
 }

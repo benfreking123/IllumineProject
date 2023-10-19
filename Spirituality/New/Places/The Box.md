@@ -1,9 +1,9 @@
 - - -
 ### Place - 5
-Author: [[Pisston]], [[Andrew]]
+Author: [[Pisston]], [[The Witness]]
 #Place #Uncommon #Lucid #Level5
 - - - 
-A box constructed by [[Pisston]] & [[Andrew]]. 
+A box constructed by [[Pisston]] & [[The Witness]]. 
 They would [[Project|Projection]] to a [[Lucid Realm]] into The Box.
 Would also use a consumable (weed)
 

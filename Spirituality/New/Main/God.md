@@ -30,7 +30,13 @@ Need a name for the smaller ‘god’ of just the [[Lucid Realm|Lucid Realms]] &
 
 ## Notes:<br>
 - - - 
+The Destiny Travel and the Ghost it creates is a create repersentation of God's relationship to Humans
+God is the Traveler and the Ghost is the Human
+Ghost sometimes can be cutoff from God just like humans can
 
+It interesting to see version of 'our truth' coming out in other stories around the world
+
+Combined all of humans to make the aspect or deity of god called Humanity
 
 ## Resources:
 - - -

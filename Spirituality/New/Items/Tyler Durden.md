@@ -1,3 +1,13 @@
+---
+tags:
+  - "#Servitor"
+  - Cursed
+Author: "[[Unknown]]"
+title: "[[Servitor]]"
+level: "18"
+---
+
+
 - - -
 ### Servitor - 18
 Author: [[Unknown]]

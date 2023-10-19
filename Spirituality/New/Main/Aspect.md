@@ -3,7 +3,9 @@
 Author: [[Unknown]]
 #Concept #Open #Vocab  #Level0
 - - - 
-A labeled section of [[God]].
+A categorization section of [[God]].
+A categorization of a larger whole.
+
 
 A piece of god or a subdivision 
 The name of a categorization of god
