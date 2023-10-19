@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Items/Wand.md",
+                "file": "New/Items/Tyler Durden.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Items/Wand.md",
+                "file": "New/Items/Tyler Durden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Items/Wand.md",
+                "file": "New/Items/Tyler Durden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Items/Wand.md"
+                "file": "New/Items/Tyler Durden.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "df1cf3edfe52cc50",
   "lastOpenFiles": [
-    "New/Items/Tyler Durden.md",
     "New/Items/Wand.md",
+    "New/Items/Tyler Durden.md",
     "Aspects.md",
     "index.md",
     "Untitled 1.md",
