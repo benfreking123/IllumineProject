@@ -408,7 +408,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options> 
 
               return {
                 type: "link",
-                url: base + `/IllumineProject/tags/${tag}`,
+                url: base + `/tags/${tag}`,
                 data: {
                   hProperties: {
                     className: ["tag-link"],
