@@ -8,7 +8,6 @@ Author: Base
 level: "4"
 ---
 ### Tool - 4
-Author: [[Base]]
 - - - 
 A tool to hone or focus one’s [[Domain Control]]
 
@@ -33,5 +32,5 @@ A tool to hone or focus one’s [[Domain Control]]
 - - - 
 
 
-## Resources:
 - - -
+Author: [[Base]]
