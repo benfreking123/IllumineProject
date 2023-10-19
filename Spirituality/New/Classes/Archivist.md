@@ -4,7 +4,7 @@ Author: [[The Witness]]
 #Title #Rarity  #TypeOf #Level
 - - - 
 
-An individual dedicated to defining [[Aspects]] of the spiritual realm.
+An individual dedicated to identifying and defining [[Aspect|Aspects]] of the spiritual realm.
 
 ## Appearance:<br>
 - - -

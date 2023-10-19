@@ -15,7 +15,7 @@
               "state": {
                 "file": "New/Items/Tyler Durden.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Servitor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,6 +149,8 @@
   },
   "active": "df1cf3edfe52cc50",
   "lastOpenFiles": [
+    "New/Items/Wand.md",
+    "New/Items/Tyler Durden.md",
     "Aspects.md",
     "index.md",
     "Untitled 1.md",
@@ -173,8 +176,6 @@
     "New/Misc/The Spark.md",
     "New/Main/Cultivator.md",
     "New/Main/Cultivator.md~",
-    "New/Misc/Place.md",
-    "New/Items/Tools/Tarot Cards/Tarot Cards.md",
     "New/Items/Tools/Tarot Cards",
     "New/Items/Tools/Scrying Mirrors",
     "New/Items/Tools/Pendulums",
