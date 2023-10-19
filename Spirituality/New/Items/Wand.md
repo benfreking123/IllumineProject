@@ -1,12 +1,14 @@
 ---
-test: test
+tags:
+  - Tool
+  - Uncommon
+  - Wand
+  - Level4
+Author: Base
+level: "4"
 ---
-
-
-- - -
 ### Tool - 4
 Author: [[Base]]
-#Tool #Uncommon #Wand #Level4
 - - - 
 A tool to hone or focus one’s [[Domain Control]]
 
