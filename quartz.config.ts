@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "benfreking123.github.io/IllumineProject",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "New", "Individuals"],
     defaultDateType: "created",
     theme: {
       typography: {

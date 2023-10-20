@@ -74,7 +74,7 @@ if __name__ == "__main__":
     DESTINATION_DIR = 'content'
     FOLDERS_TO_COPY = ['Finished Formatting']
     FILES_TO_COPY = ['index.md']
-    FILES_TO_IGNORE = ['Zarda.md']  # Add filenames you want to ignore
-    FOLDERS_TO_IGNORE = ['Old', 'Archived']  # Add folder names you want to ignore
+    FILES_TO_IGNORE = ['Home.md', "Fundamental Forces"]  # Add filenames you want to ignore
+    FOLDERS_TO_IGNORE = []  # Add folder names you want to ignore
 
     copy_selected(SOURCE_DIR, DESTINATION_DIR, FOLDERS_TO_COPY, FILES_TO_COPY, FILES_TO_IGNORE, FOLDERS_TO_IGNORE)
