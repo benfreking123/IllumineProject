@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e3f59a859b8d729",
+        "id": "8d6dcbcbeba434a0",
         "type": "tabs",
         "children": [
           {
-            "id": "df1cf3edfe52cc50",
+            "id": "b1bff3579e7b3caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Classes/Artificer.md",
-                "mode": "preview",
+                "file": "Finished Formatting/Level.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wand",
+                "query": "tag:#Common",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 209.5
   },
   "right": {
     "id": "54ae9e25cd3bbd19",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Classes/Artificer.md",
+                "file": "Finished Formatting/Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Classes/Artificer.md",
+                "file": "Finished Formatting/Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Classes/Artificer.md"
+                "file": "Finished Formatting/Level.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,34 +146,71 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b790f4cddd0befaf",
+  "floating": {
+    "id": "a0ee9e71e0a21fb7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "01fc5570c5325d96",
+        "type": "window",
+        "children": [
+          {
+            "id": "4606c91af0f4dce1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "df1cf3edfe52cc50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Template/New Note.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 816,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b1bff3579e7b3caa",
   "lastOpenFiles": [
+    "New/Items/Servitor/Servitor.md",
+    "Template/New Note.md",
+    "Finished Formatting/Pendulum.md",
+    "New/Individuals/Rose.md",
+    "New/Classes/Forger.md",
+    "New/Classes/Shadow Work/Shadow Work.md",
+    "New/Classes/Diviniation/Divination.md",
+    "New/Classes/Round Table.md",
+    "New/Classes/Remote Viewing.md",
+    "New/Classes/Projection.md",
+    "New/Classes/Domain Control.md",
+    "New/Classes/Artificer.md",
+    "New/Classes/Apothecary.md",
+    "New/Classes/Archivist.md",
+    "Finished Formatting/Conjuration.md",
+    "New/Classes/Conjuration.md",
+    "New/Main/A Walker.md",
+    "New/Main/Realm.md",
+    "New/Main/Level.md",
     "New/Main/God.md",
+    "New/Main/Cultivator.md",
+    "Finished Formatting/Dream Realm.md",
+    "New/Main/Aspect.md",
     "New/Misc/Name.md",
     "New/Misc/The Spark.md",
     "New/Places/The Box.md",
-    "New/Main/Aspect.md",
-    "New/Places/The Void.md",
-    "New/Abilities/Domain Expansion.md",
-    "New/Classes/Domain Control.md",
-    "New/Abilities/Domain Walker.md",
-    "New/Classes/Remote Viewing.md",
-    "New/Classes/Diviniation/Divination.md",
-    "New/Abilities/Simple Domain Control.md",
-    "New/Items/Emotional Regulator.md",
-    "New/Items/Anchor.md",
-    "New/Abilities/Total Thought Control.md",
-    "New/Classes/Projection.md",
-    "New/Main/Level.md",
-    "New/Main/Cultivator.md",
-    "New/Classes/Conjuration.md",
-    "New/Abilities/Thought Control.md",
-    "New/Classes/Archivist.md",
-    "New/Classes/Round Table.md",
-    "New/Places/Lucid Realm.md",
-    "New/Items/Lucid Blueprint.md",
-    "New/Abilities/Dream Jumping.md",
-    "New/Misc/Shadow.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",

@@ -1,24 +1,20 @@
-- - - 
+---
+tags:
+  - Title
+  - Rarity
+  - TypeOf
+  - Level
+Author: "[[Unknown]]"
+level: "0"
+Document State: "Prewriting"
+---
 ### Servitor - 7+
-Author: [[Unknown]]
+
 #Concept #Level7 #Servitor 
 - - - 
-A being brought into exist
-
-## Creation: 
----
-
-
-## Use:
----
-
-
-## Grounds:
---- 
-
-
-## Resources:
+_description_
 - - -
-
 ## Notes:
+_blank_
 - - - 
+- Author: [[Unknown]]
