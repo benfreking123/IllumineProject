@@ -3,10 +3,8 @@ tags:
   - Concept
   - Open
   - Vocab
-  - Level
 Author: "[[Unknown]]"
-level: "0"
-Document State: "Drafting"
+Document State: Drafting
 ---
 An ultimate identity of an [[Aspect|Aspect]] of [[God]]
 - - -

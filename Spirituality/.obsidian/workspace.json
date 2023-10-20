@@ -11,12 +11,8 @@
             "id": "b1bff3579e7b3caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finished Formatting/Level.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finished Formatting/Level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finished Formatting/Level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Finished Formatting/Level.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,6 +177,13 @@
   },
   "active": "b1bff3579e7b3caa",
   "lastOpenFiles": [
+    "Finished Formatting/Tapestry of Life.md",
+    "Finished Formatting/Observer.md",
+    "Finished Formatting/Name.md",
+    "Finished Formatting/Archivist.md",
+    "Finished Formatting/Aspect.md",
+    "Finished Formatting/Anchor.md",
+    "Finished Formatting/Level.md",
     "New/Items/Servitor/Servitor.md",
     "Template/New Note.md",
     "Finished Formatting/Pendulum.md",
@@ -204,13 +203,6 @@
     "New/Main/A Walker.md",
     "New/Main/Realm.md",
     "New/Main/Level.md",
-    "New/Main/God.md",
-    "New/Main/Cultivator.md",
-    "Finished Formatting/Dream Realm.md",
-    "New/Main/Aspect.md",
-    "New/Misc/Name.md",
-    "New/Misc/The Spark.md",
-    "New/Places/The Box.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",
