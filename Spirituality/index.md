@@ -18,7 +18,7 @@ The **Illumine Project** was founded by a group of like-minded individuals passi
   
 - **Abilities**: Discover the range of spiritual and mystical abilities that humans can cultivate. [[Abilities]]
   - [[Domain Expansion]]
-  - [[Domain Walker]]
+  - [[Domain Walker 1]]
   - [[Dream Jumping]]
   - [[God Detection]]
   - [[Self Sedation]]

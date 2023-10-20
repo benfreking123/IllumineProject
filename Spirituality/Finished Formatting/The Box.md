@@ -10,7 +10,7 @@ level: "0"
 Document State: "Researching"
 ---
 A box constructed by [[Pisston]] & [[The Witness]]. 
-They would [[Project|Projection]] to a [[Lucid Realm]] into The Box.
+They would [[Projection|Project]] to a [[Lucid Realm]] into The Box.
 Would also use a consumable (weed)
 
 To step away from the moment

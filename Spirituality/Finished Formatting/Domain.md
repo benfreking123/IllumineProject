@@ -9,6 +9,8 @@ Document State: "Prewriting"
 context 
 
 context of reality?
+
+presences or impact of an [[Aspect]] of [[God]] on [[Realm]]
 - - -
 ## Notes:
 

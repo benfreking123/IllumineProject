@@ -11,8 +11,12 @@
             "id": "b1bff3579e7b3caa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "New/Places/The Lighthouse.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Common",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "New/Places/The Lighthouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "New/Places/The Lighthouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "New/Places/The Lighthouse.md"
+              }
             }
           }
         ]
@@ -177,32 +185,32 @@
   },
   "active": "b1bff3579e7b3caa",
   "lastOpenFiles": [
-    "Finished Formatting/Tapestry of Life.md",
-    "Finished Formatting/Observer.md",
-    "Finished Formatting/Name.md",
-    "Finished Formatting/Archivist.md",
-    "Finished Formatting/Aspect.md",
-    "Finished Formatting/Anchor.md",
-    "Finished Formatting/Level.md",
-    "New/Items/Servitor/Servitor.md",
-    "Template/New Note.md",
-    "Finished Formatting/Pendulum.md",
-    "New/Individuals/Rose.md",
-    "New/Classes/Forger.md",
-    "New/Classes/Shadow Work/Shadow Work.md",
-    "New/Classes/Diviniation/Divination.md",
-    "New/Classes/Round Table.md",
-    "New/Classes/Remote Viewing.md",
-    "New/Classes/Projection.md",
-    "New/Classes/Domain Control.md",
-    "New/Classes/Artificer.md",
-    "New/Classes/Apothecary.md",
-    "New/Classes/Archivist.md",
-    "Finished Formatting/Conjuration.md",
-    "New/Classes/Conjuration.md",
+    "New/Places/The Void.md",
+    "New/Places/The Lighthouse.md",
+    "New/Places/The Edge.md",
+    "New/Places/Akashic Records.md",
+    "New/Places/The Box.md",
+    "New/Places/Material Realm.md",
+    "New/Misc/Memetic.md",
+    "New/Misc/Shadow.md",
+    "New/Misc/Place.md",
+    "New/Misc/Name.md",
     "New/Main/A Walker.md",
-    "New/Main/Realm.md",
-    "New/Main/Level.md",
+    "New/Misc/Attribute.md",
+    "New/Items/Tyler Durden.md",
+    "New/Items/Wand.md",
+    "New/Items/Personal Altar.md",
+    "New/Items/Test.md",
+    "New/Items/Material Teleporter.md",
+    "New/Items/Everything Bagel.md",
+    "New/Items/Lucid Blueprint.md",
+    "New/Items/Bag of Holding.md",
+    "New/Items/Emotional Regulator.md",
+    "New/Items/Alcohol.md",
+    "New/Items/Anchor.md",
+    "New/Items/Tools/Scrying Mirrors/Garfield Mirror.md",
+    "New/Items/Tools/Books/Dream Journal.md",
+    "New/Abilities/Shadow Manipulate.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",

@@ -1,1 +1,0 @@
-I am a Charector in a Dnd work that is exploring and finding things, taking notes, learning. This Vault is a documentation of my Journey

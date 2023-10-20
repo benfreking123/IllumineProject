@@ -8,7 +8,7 @@ Author: "[[Nulek]]"
 level: "6"
 Document State: "Prewriting"
 ---
-A Servitor to regulate your emotions, meditate everyday on a certain state of mind while thinking of the Servitor, imagine it pumping calming fluid through you
+A [[Servitor]] to regulate your emotions, meditate everyday on a certain state of mind while thinking of the Servitor, imagine it pumping calming fluid through you
 - - - 
 ## Notes:
 _blank_
