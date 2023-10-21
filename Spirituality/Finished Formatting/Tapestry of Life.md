@@ -1,12 +1,12 @@
 ---
 tags:
-  - Title
   - Sacred
   - TypeOf
   - Level21
+  - Icon
 Author: "[[Base]]"
 level: "21"
-Document State: "Prewriting"
+Document State: Prewriting
 ---
 Title: name of category of the representation of god
 

@@ -6,9 +6,10 @@ tags:
 Author: "[[Unknown]]"
 Document State: Prewriting
 ---
-A representation of [[God]]
+Attempts at representation of [[God]]
 - - -
 ## Notes:
 _blank_
+It is not possible to make a true/full/complete representation of [[God]] because it is not possible to see all of [[God]] at once so we create Icons.
 - - -
 Author: [[Unknown]]
