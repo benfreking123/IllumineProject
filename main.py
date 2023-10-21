@@ -72,7 +72,7 @@ def copy_selected(src_dir, dest_dir, folder_list, file_list, files_to_ignore, fo
 if __name__ == "__main__":
     SOURCE_DIR = 'Spirituality'
     DESTINATION_DIR = 'content'
-    FOLDERS_TO_COPY = ['Finished Formatting']
+    FOLDERS_TO_COPY = ['FinishedFormatting']
     FILES_TO_COPY = ['index.md']
     FILES_TO_IGNORE = ['Home.md', "Fundamental Forces"]  # Add filenames you want to ignore
     FOLDERS_TO_IGNORE = []  # Add folder names you want to ignore

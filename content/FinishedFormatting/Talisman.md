@@ -2,7 +2,7 @@
 tags:
   - Talisman
   - Open
-  - #Tool
+  - Tool
   - Level0
 Author: "[[Unknown]]"
 level: "0"

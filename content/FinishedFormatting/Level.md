@@ -8,9 +8,9 @@ Document State: "Prewriting"
 ---
 The ranking of skill/power/experience/understand needed to utilize a concept/item/ability
 
-Level is a measure of [[domain]]
+Level is a measure of [[Domain]]
 
-Level is a measure of change an [[Aspect]] of [[God]] can apply to a [[Realm]]
+Level is a measure of change/impact of an [[Aspect]] of [[God]] can apply to a [[Realm]]
 - - -
 ## Notes:
 _blank_
