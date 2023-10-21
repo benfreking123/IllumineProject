@@ -16,7 +16,7 @@ presences or impact of an [[Aspect]] of [[God]] on a [[Realm]]
 
 Domain Walker:
 - The ability to easily enter and exit a [[Domain]].
-- Requires high [[domain fortitude]] or the [[Domain]] to have a weak [[domain expansion]].
+- Requires high [[domain fortitude]] or the [[Domain]] to have a weak [[Domain Expansion]].
 - Maybe lower domain expansion level
 - - -
 Author: [[Base]]

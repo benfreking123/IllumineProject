@@ -10,7 +10,7 @@ Document State: Researching
 ---
 The ability to easily enter and exit a [[Domain]].
 
-Requires high [[domain fortitude]] or the [[Domain]] to have a weak [[domain expansion]].
+Requires high [[domain fortitude]] or the [[Domain]] to have a weak [[Domain Expansion]].
 - - -
 ## Notes:
 Can enter a culture and practice the ideology and then leave freely and easily

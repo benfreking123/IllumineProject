@@ -18,7 +18,7 @@ The totality of all [[Astral Realm|Astral Realms]]
 Need a name for the smaller ‘god’ of just the [[Lucid Realm|Lucid Realm]] & [[Material Realm]]
 - - -
 ## Notes:
-To know the [[Name]] of god is to know all of existence, is to know the [[Name]] of everything. If you truly know the [[Name]] of a [[Aspect]] of [[god]] then you can call the purest form of that [[Aspect]], thus if you know the [[Name]] of everything then you are god.
+To know the [[Name]] of god is to know all of existence, is to know the [[Name]] of everything. If you truly know the [[Name]] of a [[Aspect]] of [[God]] then you can call the purest form of that [[Aspect]], thus if you know the [[Name]] of everything then you are god.
 
 God is the Traveler and the Ghost is the Human
 Ghost sometimes can be cutoff from God just like humans can
