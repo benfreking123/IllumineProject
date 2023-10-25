@@ -10,7 +10,9 @@ context
 
 context of reality?
 
-presences or impact of an [[Aspect]] of [[God]] on a [[Realm]]
+How a [[Name]] impacts an [[Aspect]] of [[God]].
+
+presences or impact of an [[Aspect]] of [[God]] on a [[Realm]].
 - - -
 ## Notes:
 

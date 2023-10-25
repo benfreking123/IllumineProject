@@ -6,9 +6,7 @@ tags:
 Author: "[[Unknown]]"
 Document State: Drafting
 ---
-A categorization section of [[God]].
-A categorization of a larger whole.
-
+A categorization([[Name|Named]]) of a larger whole, "distinctively identified and recognized as an integral component contributing to the complexity and diversity of the entire entity"
 
 A piece of god or a subdivision 
 The name of a categorization of god

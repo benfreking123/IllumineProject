@@ -17,8 +17,7 @@ The **Illumine Project** was founded by a group of like-minded individuals passi
 - **Fundamental Forces**: Dive deep into the primary energies and principles that govern the universe. [[Fundamental Forces]]
   
 - **Abilities**: Discover the range of spiritual and mystical abilities that humans can cultivate. [[Abilities]]
-  - [[Domain Expansion]]
-  - [[Domain Walker 1]]
+  - [[Domain Expansion
   - [[Dream Jumping]]
   - [[God Detection]]
   - [[Self Sedation]]

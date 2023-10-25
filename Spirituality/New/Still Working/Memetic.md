@@ -1,9 +1,11 @@
 - - -
 ### Memetic - 0
 Author: [[Unknown]]
-#Memetic #Common #TypeOf #Level0
+#Memetic #Open #Level0
 - - - 
 A thought, idea, or concept that is taken on my another individual.
+
+A Lucid [[Aspect]] that ingrains or absorbed by the body/mind
 
 ## Appearance:<br>
 - - -

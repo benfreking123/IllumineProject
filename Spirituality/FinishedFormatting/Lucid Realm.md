@@ -15,5 +15,7 @@ A Lucid Realm is a category of [[Realms]] that are intrinsically tied to the [[M
 - - -
 ## Notes:
 Are Lucid Realms tied to the [[Material Realm]] through the [[Observer]]?
+
+Catapillers have memories through their caccon showing evidence of memories exist in a lucid form
 - - -
 - Author: [[Base]]
