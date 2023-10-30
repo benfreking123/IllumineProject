@@ -8,7 +8,13 @@ Author: "[[Unknown]]"
 level: "1"
 Document State: Drafting
 ---
-An [[Aspect]] in the [[Material Realm]] that can be used by the[[Observer]] to call fourth a pre-preestablish [[Feedback]].
+An Anchor is a physical item that ties an [[Anchor-points|Anchor-point]] to the [[Material Realm]]
+
+An [[Aspect]] in the [[Material Realm]] that can be used by the [[Observer]] to call fourth a pre-preestablish [[Feedback]].
+
+An item with external values outside of its material form
+
+Anchors tie [[Anchor-points]] to the physical realm
 
 An Anchor is a type of [[Talisman]], a physical representation of a more complex idea. To hone the definition, an anchor is a physical object that an individual has chosen to associate with a mental construct, most likely; a thought, idea, imagination, daydream, memory, or emotion. This Anchor is then used to call that mental state to the individuals mind.
 

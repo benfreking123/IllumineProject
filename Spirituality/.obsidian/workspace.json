@@ -11,11 +11,14 @@
             "id": "b1bff3579e7b3caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "New/Places/The Lighthouse.md",
-                "mode": "preview",
-                "source": false
+                "file": "FinishedFormatting/Test.canvas",
+                "viewState": {
+                  "x": -26.888397591332993,
+                  "y": 311.853781655107,
+                  "zoom": -0.361756157875061
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Anchor-po",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Places/The Lighthouse.md",
+                "file": "FinishedFormatting/Test.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Places/The Lighthouse.md",
+                "file": "FinishedFormatting/Test.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Places/The Lighthouse.md"
+                "file": "FinishedFormatting/Test.canvas"
               }
             }
           }
@@ -146,45 +149,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "a0ee9e71e0a21fb7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "01fc5570c5325d96",
-        "type": "window",
-        "children": [
-          {
-            "id": "4606c91af0f4dce1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df1cf3edfe52cc50",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Template/New Note.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 816,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "b1bff3579e7b3caa",
+  "active": "b790f4cddd0befaf",
   "lastOpenFiles": [
+    "FinishedFormatting/Aspect.md",
+    "FinishedFormatting/Test.canvas",
+    "New/Main/Awakening.md",
+    "Anchor-points.md",
+    "FinishedFormatting/Anchor.md",
+    "New/Main/Lucid Construct.md",
+    "FinishedFormatting/Mana Stone.md",
+    "FinishedFormatting/Etched Mana Stone.md",
+    "Home.md",
+    "Spell.md",
+    "Untitled 1.canvas",
+    "index.md",
+    "Template/New Note.md",
     "New/Places/The Void.md",
     "New/Places/The Lighthouse.md",
     "New/Places/The Edge.md",
@@ -200,17 +179,6 @@
     "New/Items/Tyler Durden.md",
     "New/Items/Wand.md",
     "New/Items/Personal Altar.md",
-    "New/Items/Test.md",
-    "New/Items/Material Teleporter.md",
-    "New/Items/Everything Bagel.md",
-    "New/Items/Lucid Blueprint.md",
-    "New/Items/Bag of Holding.md",
-    "New/Items/Emotional Regulator.md",
-    "New/Items/Alcohol.md",
-    "New/Items/Anchor.md",
-    "New/Items/Tools/Scrying Mirrors/Garfield Mirror.md",
-    "New/Items/Tools/Books/Dream Journal.md",
-    "New/Abilities/Shadow Manipulate.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",

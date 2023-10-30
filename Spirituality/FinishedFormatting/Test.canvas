@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"40d138e5c0c1b9a5","type":"file","file":"FinishedFormatting/Anchor.md","x":-300,"y":-180,"width":400,"height":400},
+		{"id":"b2ada70ec1ec4495","type":"file","file":"Anchor-points.md","x":-300,"y":280,"width":400,"height":400},
+		{"id":"792794fc592f6d33","type":"file","file":"FinishedFormatting/Mana Stone.md","x":240,"y":-180,"width":400,"height":400},
+		{"id":"452b75a9cf76894a","x":240,"y":280,"width":400,"height":400,"type":"file","file":"New/Main/Lucid Construct.md"}
+	],
+	"edges":[]
+}

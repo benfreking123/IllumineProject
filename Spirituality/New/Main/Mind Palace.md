@@ -12,6 +12,6 @@ A self constructed lucid location to hold memories or ideas
 - - -
 ## Notes:
 
-Maybe located 
+Maybe located or created in the memory realm?
 - - -
 Author: [[Unknown]]

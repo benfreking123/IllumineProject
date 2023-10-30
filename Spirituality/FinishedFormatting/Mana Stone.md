@@ -8,11 +8,14 @@ Author: "[[Unknown]]"
 level: "1"
 Document State: "Researching"
 ---
+A stronger form an [[Anchor]] that an individual must feed or work with to keep active and functional
+Mana Stones channel states of mind, where anchors are more called or replicate a state of mind
 An object that holds [[energy]] and/or emotions.
 
 You interact with this object to call(name?) a specific [[Feedback]]
 
 An object in the [[Material Realm]] that can be used by the(body?) [[Observer]] to call fourth a preestablish [[Feedback]]
+
 - - -
 ## Creation: 
 Name the object and then focus on it to put energy and/or emotions into it. 

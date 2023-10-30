@@ -1,5 +1,5 @@
 ---
-title: Illumine Project
+title: Manic Dreams Wiki
 ---
 
 Welcome to the Illumine Project Wiki
