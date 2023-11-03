@@ -27,30 +27,19 @@ def copy_selected(src_dir, dest_dir, folder_list, file_list, files_to_ignore, fo
     for item_name in os.listdir(src_dir):
         # Construct the full path
         item_path = os.path.join(src_dir, item_name)
-        dest_path = os.path.join(dest_dir, item_name)
 
         # If it's a directory, check against the folder list and ignore list
         if os.path.isdir(item_path):
             if item_name in folder_list and item_name not in folders_to_ignore:
-                # If the destination folder exists, delete it
-                if os.path.exists(dest_path):
-                    shutil.rmtree(dest_path)
-                    print(f"Deleted old version of folder {item_name} in {dest_dir}")
-
-                # Copy directory without files to ignore
-                os.makedirs(dest_path)
-
                 for root, dirs, files in os.walk(item_path):
                     # Modify dirs in place to exclude folders in folders_to_ignore
-                    for folder in folders_to_ignore:
-                        if folder in dirs:
-                            dirs.remove(folder)
+                    dirs[:] = [d for d in dirs if d not in folders_to_ignore]
 
                     for name in files:
                         if name not in files_to_ignore:
                             source_file = os.path.join(root, name)
                             relative_path = os.path.relpath(root, item_path)
-                            dest_file_folder = os.path.join(dest_path, relative_path)
+                            dest_file_folder = os.path.join(dest_dir, relative_path)
                             dest_file = os.path.join(dest_file_folder, name)
 
                             if not os.path.exists(dest_file_folder):
@@ -58,15 +47,16 @@ def copy_selected(src_dir, dest_dir, folder_list, file_list, files_to_ignore, fo
 
                             shutil.copy2(source_file, dest_file)
 
-                print(f"Copied folder {item_name} to {dest_path} (ignoring files and folders from the ignore list)")
+                print(f"Copied contents of folder {item_name} to {dest_dir} (ignoring files and folders from the ignore list)")
 
         elif os.path.isfile(item_path) and item_name in file_list:
+            dest_path = os.path.join(dest_dir, item_name)
             # If the destination file exists, delete it
             if os.path.exists(dest_path):
                 os.remove(dest_path)
                 print(f"Deleted old version of file {item_name} in {dest_dir}")
             shutil.copy2(item_path, dest_path)
-            print(f"Copied file {item_name} to {dest_path}")
+            print(f"Copied file {item_name} to {dest_dir}")
 
 
 if __name__ == "__main__":

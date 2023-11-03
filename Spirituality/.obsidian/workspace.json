@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New/Main/Lucid Construct.md",
+                "file": "FinishedFormatting/Shadow Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:lucid ",
+                "query": "tag:Class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New/Main/Lucid Construct.md",
+                "file": "FinishedFormatting/Shadow Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New/Main/Lucid Construct.md",
+                "file": "FinishedFormatting/Shadow Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New/Main/Lucid Construct.md"
+                "file": "FinishedFormatting/Shadow Work.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "5d40a3db4b9a704c",
   "lastOpenFiles": [
+    "FinishedFormatting/Class/Projection.md",
+    "FinishedFormatting/Class",
+    "FinishedFormatting/C.md",
+    "New/Main/Lucid Construct.md",
     "FinishedFormatting/Aspect.md",
     "Template/Articles.md",
-    "New/Main/Lucid Construct.md",
     "New/Main/Imagination.md",
     "FinishedFormatting/Thought Control.md",
     "New/Main/Meditation.md",
@@ -188,9 +191,6 @@
     "Magick.md",
     "New/Still Working/Memetic.md",
     "New/Main/Memory.md",
-    "New/Main/Dream.md",
-    "New/Main/Immagination.md",
-    "FinishedFormatting/Bag of Holding.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",
@@ -198,7 +198,6 @@
     "New/Items/Tools/Pendulums",
     "New/Items/Tools/Books",
     "New/Items/Talisman/Mana Stone",
-    "New/Items/Talisman",
-    "New/Items/Servitor/Zarda & Kenith"
+    "New/Items/Talisman"
   ]
 }

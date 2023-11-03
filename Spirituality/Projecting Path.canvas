@@ -28,7 +28,7 @@
 		{"id":"a593621ded1f584d","type":"file","file":"Magic Item Path.canvas","x":1800,"y":-1000,"width":400,"height":400},
 		{"id":"fe249638c5e62162","type":"file","file":"FinishedFormatting/Observer.md","x":-1660,"y":0,"width":400,"height":400},
 		{"id":"80f52cee664c9175","type":"text","text":"How does the observer tie the Material and lucid realm together","x":-1510,"y":280,"width":250,"height":120},
-		{"id":"d898c0311368ebf1","x":-1100,"y":0,"width":400,"height":400,"type":"file","file":"FinishedFormatting/Projection.md"}
+		{"id":"d898c0311368ebf1","x":-1100,"y":0,"width":400,"height":400,"type":"file","file":"FinishedFormatting/Class/Projection.md"}
 	],
 	"edges":[
 		{"id":"6bfc7a8b20a3036b","fromNode":"9184614191b0a34e","fromSide":"right","toNode":"52047b3c6c6b1946","toSide":"left"},
