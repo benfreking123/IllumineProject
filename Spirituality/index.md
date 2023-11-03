@@ -59,7 +59,7 @@ The **Illumine Project** was founded by a group of like-minded individuals passi
   - [[Cultivator]]
   - [[God]]
   - [[Level]]
-  - [[Realm]]
+  - [[Plane]]
 
 - **Misc**
   - [[Attribute]]

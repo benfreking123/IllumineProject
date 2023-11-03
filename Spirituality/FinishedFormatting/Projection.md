@@ -10,11 +10,12 @@ Author: "[[Base]]"
 level: "0"
 Document State: "Researching"
 ---
-To travel to (focus on) a [[Realm]]
+To change the focus or attention of the [[Observer]]
+Projection is to change what the [[Observer]] is focusing on.
 
 Projection is seen in two main forms;
 - Projection to a [[Lucid Realm]]
-- Projection to an [[Astral Realm]]
+- Projection to an [[Astral Plane]]
 - - -
 ## Notes:
 _blank_

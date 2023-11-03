@@ -10,7 +10,7 @@ The ranking of skill/power/experience/understand needed to utilize a concept/ite
 
 Level is a measure of [[Domain]]
 
-Level is a measure of change/impact of an [[Aspect]] of [[God]] can apply to a [[Realm]]
+Level is a measure of change/impact of an [[Aspect]] of [[God]] can apply to a [[Plane]]
 - - -
 ## Notes:
 _blank_

@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"c495957b78cf2389","type":"file","file":"FinishedFormatting/God.md","x":590,"y":-2480,"width":400,"height":400},
+		{"id":"6353801766c4d2b5","type":"file","file":"FinishedFormatting/Dream Realm.md","x":590,"y":-880,"width":400,"height":400},
+		{"id":"2bc7499f49b01472","type":"file","file":"New/Main/Thought Realm.md","x":1390,"y":-880,"width":400,"height":400},
+		{"id":"a2468c167d9b5bf2","type":"file","file":"FinishedFormatting/Astral Plane.md","x":1390,"y":-1680,"width":400,"height":400},
+		{"id":"8a2340212a56ef91","type":"file","file":"FinishedFormatting/Lucid Realm.md","x":795,"y":-1200,"width":390,"height":200},
+		{"id":"52cc20026fbc6e4a","type":"file","file":"FinishedFormatting/Plane.md","x":800,"y":-2000,"width":380,"height":200},
+		{"id":"ad58604c02461d80","type":"file","file":"New/Main/Memory Realm.md","x":-210,"y":-880,"width":400,"height":400},
+		{"id":"36989eff298d681b","type":"file","file":"FinishedFormatting/Astral Plane.md","x":-210,"y":-1680,"width":400,"height":400},
+		{"id":"578e723c0678f9b9","type":"file","file":"FinishedFormatting/Material Plane.md","x":590,"y":-1680,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"f682a3227f305835","fromNode":"c495957b78cf2389","fromSide":"bottom","toNode":"578e723c0678f9b9","toSide":"top"},
+		{"id":"40881c50722512f4","fromNode":"c495957b78cf2389","fromSide":"bottom","toNode":"a2468c167d9b5bf2","toSide":"top"},
+		{"id":"963a179fdf2455cc","fromNode":"c495957b78cf2389","fromSide":"bottom","toNode":"36989eff298d681b","toSide":"top"},
+		{"id":"a6de716ea42025fb","fromNode":"578e723c0678f9b9","fromSide":"bottom","toNode":"2bc7499f49b01472","toSide":"top"},
+		{"id":"a00d6b3cc33cc8be","fromNode":"578e723c0678f9b9","fromSide":"bottom","toNode":"ad58604c02461d80","toSide":"top"},
+		{"id":"06b18fa59b54c86d","fromNode":"578e723c0678f9b9","fromSide":"bottom","toNode":"6353801766c4d2b5","toSide":"top"}
+	]
+}

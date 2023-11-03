@@ -12,7 +12,7 @@ Document State: "Prewriting"
 An item to store memories into
 An item to store a lucid construct
 
-An [[Anchor]] of a [[Mind Palace]]
+A [[Mana Stone]] of a [[Mind Palace]]
 - - -
 ## Use:
 In the [[Lucid Realm]], reach your arm in the box and pull out the memory

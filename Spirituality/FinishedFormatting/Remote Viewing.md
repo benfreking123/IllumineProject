@@ -10,9 +10,9 @@ level: "5"
 Document State: "Researching"
 ---
 A subclass of [[Astral Projection]], 
-Astral Projection to this specific [[Realm]], the [[Material Realm]]
+Astral Projection to this specific [[Plane]], the [[Material Plane]]
 
-[[Astral Realm]] [[Projection]] to this specific [[Realm]], the [[Material Realm]].
+[[Astral Plane]] [[Projection]] to this specific [[Plane]], the [[Material Plane]].
 - - -
 ## Notes:
 Astral projecting into specifically the physical realm or our world

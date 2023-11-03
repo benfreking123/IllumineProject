@@ -13,6 +13,9 @@ The name of a categorization of god
 
 Each god in the Greek pantheon would be considered an Aspect.
 - - -
+## Articles:
+- What is an Aspect of God
+- - - 
 ## Notes:
 _blank_
 - - - 

@@ -13,9 +13,9 @@ Everything
 
 The reason for the name is that my everything includes the lucid and astral
 
-The totality of all [[Astral Realm|Astral Realms]]
+The totality of all [[Astral Plane|Astral Realms]]
 
-Need a name for the smaller ‘god’ of just the [[Lucid Realm|Lucid Realm]] & [[Material Realm]]
+Need a name for the smaller ‘god’ of just the [[Lucid Realm|Lucid Realm]] & [[Material Plane]]
 - - -
 ## Notes:
 To know the [[Name]] of god is to know all of existence, is to know the [[Name]] of everything. If you truly know the [[Name]] of a [[Aspect]] of [[God]] then you can call the purest form of that [[Aspect]], thus if you know the [[Name]] of everything then you are god.

@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"40d138e5c0c1b9a5","type":"file","file":"FinishedFormatting/Anchor.md","x":-300,"y":-180,"width":400,"height":400},
+		{"id":"792794fc592f6d33","type":"file","file":"FinishedFormatting/Mana Stone.md","x":240,"y":-180,"width":400,"height":400},
+		{"id":"713811f09003bc3b","type":"file","file":"FinishedFormatting/Talisman.md","x":-820,"y":-180,"width":400,"height":400},
+		{"id":"b2ada70ec1ec4495","type":"file","file":"Anchor-points.md","x":240,"y":360,"width":400,"height":400},
+		{"id":"452b75a9cf76894a","type":"file","file":"New/Main/Lucid Construct.md","x":-300,"y":360,"width":400,"height":400},
+		{"id":"65e524b032235f42","type":"file","file":"FinishedFormatting/Observer.md","x":-300,"y":900,"width":400,"height":400},
+		{"id":"5db81b0dacb3522d","type":"file","file":"FinishedFormatting/Etched Mana Stone.md","x":800,"y":-180,"width":400,"height":400},
+		{"id":"46e20dab2a9a62e5","type":"file","file":"FinishedFormatting/Bag of Holding.md","x":800,"y":-720,"width":400,"height":400},
+		{"id":"ac5836ac7d89ab29","type":"file","file":"Projecting Path.canvas","x":-820,"y":360,"width":400,"height":400},
+		{"id":"b731f3ff98245a70","x":-754,"y":760,"width":268,"height":154,"type":"text","text":"Create a base article explaining how to attach any lucid construct to an anchor\nThis is how you create a mana stone and use it"}
+	],
+	"edges":[
+		{"id":"1e84949632346722","fromNode":"713811f09003bc3b","fromSide":"right","toNode":"40d138e5c0c1b9a5","toSide":"left"},
+		{"id":"bb723d77461ee032","fromNode":"40d138e5c0c1b9a5","fromSide":"right","toNode":"792794fc592f6d33","toSide":"left"},
+		{"id":"63a46aabd5d7ff83","fromNode":"b2ada70ec1ec4495","fromSide":"top","toNode":"40d138e5c0c1b9a5","toSide":"bottom"},
+		{"id":"0028d285191efbbd","fromNode":"b2ada70ec1ec4495","fromSide":"top","toNode":"792794fc592f6d33","toSide":"bottom"},
+		{"id":"b3db3f94a930a8bc","fromNode":"452b75a9cf76894a","fromSide":"right","toNode":"b2ada70ec1ec4495","toSide":"left"},
+		{"id":"055c26203af998b7","fromNode":"65e524b032235f42","fromSide":"right","toNode":"b2ada70ec1ec4495","toSide":"left"},
+		{"id":"135c11f4fa1a087b","fromNode":"792794fc592f6d33","fromSide":"right","toNode":"5db81b0dacb3522d","toSide":"left"},
+		{"id":"21c9a0cdf154ee98","fromNode":"b2ada70ec1ec4495","fromSide":"top","toNode":"5db81b0dacb3522d","toSide":"bottom"},
+		{"id":"b02ebf472eb14d1f","fromNode":"792794fc592f6d33","fromSide":"top","toNode":"46e20dab2a9a62e5","toSide":"bottom"},
+		{"id":"0d3a4e52ca143cdc","fromNode":"5db81b0dacb3522d","fromSide":"top","toNode":"46e20dab2a9a62e5","toSide":"bottom"},
+		{"id":"5c3b64b487ae1890","fromNode":"ac5836ac7d89ab29","fromSide":"right","toNode":"452b75a9cf76894a","toSide":"left"}
+	]
+}

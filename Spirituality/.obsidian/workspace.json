@@ -4,21 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8d6dcbcbeba434a0",
+        "id": "56a0503ff69ae998",
         "type": "tabs",
         "children": [
           {
-            "id": "b1bff3579e7b3caa",
+            "id": "5d40a3db4b9a704c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "FinishedFormatting/Test.canvas",
-                "viewState": {
-                  "x": -26.888397591332993,
-                  "y": 311.853781655107,
-                  "zoom": -0.361756157875061
-                }
+                "file": "New/Main/Lucid Construct.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3907d9dadd0d8aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FinishedFormatting/Plane.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Anchor-po",
+                "query": "file:lucid ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FinishedFormatting/Test.canvas",
+                "file": "New/Main/Lucid Construct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FinishedFormatting/Test.canvas",
+                "file": "New/Main/Lucid Construct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FinishedFormatting/Test.canvas"
+                "file": "New/Main/Lucid Construct.md"
               }
             }
           }
@@ -149,36 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b790f4cddd0befaf",
+  "active": "5d40a3db4b9a704c",
   "lastOpenFiles": [
     "FinishedFormatting/Aspect.md",
-    "FinishedFormatting/Test.canvas",
-    "New/Main/Awakening.md",
-    "Anchor-points.md",
-    "FinishedFormatting/Anchor.md",
+    "Template/Articles.md",
     "New/Main/Lucid Construct.md",
-    "FinishedFormatting/Mana Stone.md",
-    "FinishedFormatting/Etched Mana Stone.md",
-    "Home.md",
+    "New/Main/Imagination.md",
+    "FinishedFormatting/Thought Control.md",
+    "New/Main/Meditation.md",
+    "Magic Item Path.canvas",
+    "Articles/My First time Meditating.md",
+    "Projecting Path.canvas",
+    "Articles",
+    "God Structure.canvas",
+    "FinishedFormatting/Lucid Realm.md",
+    "FinishedFormatting/Plane.md",
+    "FinishedFormatting/Material Plane.md",
+    "New/Main/History.md",
+    "New/Main/Mind Palace.md",
+    "New/Main/Memory Realm.md",
+    "New/Main/Thought Realm.md",
+    "New/Main/Class.md",
+    "New/Main/Thought.md",
     "Spell.md",
-    "Untitled 1.canvas",
+    "Anchor-points.md",
+    "Backlink.md",
     "index.md",
-    "Template/New Note.md",
-    "New/Places/The Void.md",
-    "New/Places/The Lighthouse.md",
-    "New/Places/The Edge.md",
-    "New/Places/Akashic Records.md",
-    "New/Places/The Box.md",
-    "New/Places/Material Realm.md",
-    "New/Misc/Memetic.md",
-    "New/Misc/Shadow.md",
-    "New/Misc/Place.md",
-    "New/Misc/Name.md",
-    "New/Main/A Walker.md",
-    "New/Misc/Attribute.md",
-    "New/Items/Tyler Durden.md",
-    "New/Items/Wand.md",
-    "New/Items/Personal Altar.md",
+    "Magick.md",
+    "New/Still Working/Memetic.md",
+    "New/Main/Memory.md",
+    "New/Main/Dream.md",
+    "New/Main/Immagination.md",
+    "FinishedFormatting/Bag of Holding.md",
     "Finished Formatting",
     "New/Main/Cultivator.md~",
     "New/Items/Tools/Tarot Cards",
@@ -187,7 +199,6 @@
     "New/Items/Tools/Books",
     "New/Items/Talisman/Mana Stone",
     "New/Items/Talisman",
-    "New/Items/Servitor/Zarda & Kenith",
-    "New/Items/Servitor/Scuba"
+    "New/Items/Servitor/Zarda & Kenith"
   ]
 }
