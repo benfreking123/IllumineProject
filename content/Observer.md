@@ -6,7 +6,7 @@ tags:
 Author: "[[Base]]"
 Document State: "Prewriting"
 ---
-_Description_
+ _Description_
 - - -
 ## Notes:
 _blank_

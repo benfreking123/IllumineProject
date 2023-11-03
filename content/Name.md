@@ -6,7 +6,8 @@ tags:
 Author: "[[Unknown]]"
 Document State: Drafting
 ---
-An ultimate identity of an [[Aspect|Aspect]] of [[God]]
+An ultimate identity of an [[Aspect|Aspect]] of [[God]],
+"embodying the quintessential characteristics and essence that permeate every part and dimension of existence."
 - - -
 ## Creation:
 Names are not created but learned, through understanding an [[Aspect|Aspect]] of [[God]].

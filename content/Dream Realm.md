@@ -8,7 +8,7 @@ Author: "[[Base]]"
 level: "0"
 Document State: "Prewriting - Researching - Drafting - Revising - Finalizing - Completed"
 ---
-A [[Lucid Realm]] where dreams occur
+A [[Lucid Realm]] where [[Dream|dreams]] occur
 - - -
 ## Notes:
 _blank_

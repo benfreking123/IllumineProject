@@ -8,7 +8,7 @@ Author: "[[Unknown]]"
 level: "4"
 Document State: "Prewriting - Researching - Drafting - Revising - Finalizing - Completed"
 ---
-Starting true meditation
+Starting true [[meditation]]
 
 Learning to Respond instead of React? Or maybe a piece of it? 
 Focus? Controlling focus

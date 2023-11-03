@@ -6,11 +6,11 @@ tags:
 Author: "[[Base]]"
 Document State: "Prewriting"
 ---
-context 
+presences or impact of an [[Aspect]] of [[God]] on a [[Plane]]. 
 
-context of reality?
+This is also known as the context of an idea. 
 
-presences or impact of an [[Aspect]] of [[God]] on a [[Realm]]
+How a [[Name]] impacts an [[Aspect]] of [[God]].
 - - -
 ## Notes:
 
